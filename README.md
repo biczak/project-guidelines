@@ -1,36 +1,3 @@
-
-[中文版](./README-zh.md)
- | [日本語版](./README-ja.md)
- | [한국어](./README-ko.md)
-
-[<img src="./images/hive-red-logo.png" width="180" height="180">](http://wearehive.co.uk/)
-
-
-# Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-> While developing a new project is like rolling on a green field for you, maintaining it is a potential dark twisted nightmare for someone else.
-Here's a list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects here at [hive](http://wearehive.co.uk).
-If you want to share a best practice, or think one of these guidelines should be removed, [feel free to share it with us](http://makeapullrequest.com).
-- [Git](#git)
-    - [Some Git rules](#some-git-rules)
-    - [Git workflow](#git-workflow)
-    - [Writing good commit messages](#writing-good-commit-messages)
-- [Documentation](#documentation)
-- [Environments](#environments)
-    - [Consistent dev environments](#consistent-dev-environments)
-    - [Consistent dependencies](#consistent-dependencies)
-- [Dependencies](#dependencies)
-- [Testing](#testing)
-- [Structure and Naming](#structure-and-naming)
-- [Code style](#code-style)
-    - [Some code style guidelines](#code-style-check)
-    - [Enforcing code style standards](#enforcing-code-style-standards)
-- [Logging](#logging)
-- [API](#api)
-    - [API design](#api-design)
-    - [API security](#api-security)
-    - [API documentation](#api-documentation)
-- [Licensing](#licensing)
-
 <a name="git"></a>
 ## 1. Git
 ![Git](/images/branching.png)
